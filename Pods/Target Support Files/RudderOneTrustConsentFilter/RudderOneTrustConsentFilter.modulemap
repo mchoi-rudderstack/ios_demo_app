@@ -1,0 +1,6 @@
+framework module RudderOneTrustConsentFilter {
+  umbrella header "RudderOneTrustConsentFilter-umbrella.h"
+
+  export *
+  module * { export * }
+}

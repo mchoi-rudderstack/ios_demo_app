@@ -1,0 +1,55 @@
+PODS:
+  - Appboy-iOS-SDK (4.4.2):
+    - Appboy-iOS-SDK/UI (= 4.4.2)
+  - Appboy-iOS-SDK/ContentCards (4.4.2):
+    - Appboy-iOS-SDK/Core
+    - SDWebImage (< 6, >= 5.8.2)
+  - Appboy-iOS-SDK/Core (4.4.2)
+  - Appboy-iOS-SDK/InAppMessage (4.4.2):
+    - Appboy-iOS-SDK/Core
+    - SDWebImage (< 6, >= 5.8.2)
+  - Appboy-iOS-SDK/NewsFeed (4.4.2):
+    - Appboy-iOS-SDK/Core
+    - SDWebImage (< 6, >= 5.8.2)
+  - Appboy-iOS-SDK/UI (4.4.2):
+    - Appboy-iOS-SDK/ContentCards
+    - Appboy-iOS-SDK/Core
+    - Appboy-iOS-SDK/InAppMessage
+    - Appboy-iOS-SDK/NewsFeed
+  - OneTrust-CMP-XCFramework (202301.1.0.0)
+  - Rudder (1.12.0)
+  - Rudder-Braze (1.1.1):
+    - Appboy-iOS-SDK (= 4.4.2)
+    - Rudder (~> 1.0)
+  - RudderOneTrustConsentFilter (1.1.0):
+    - OneTrust-CMP-tvOS-XCFramework (= 202301.1.0)
+    - OneTrust-CMP-XCFramework (= 202301.1.0)
+    - Rudder (~> 1.12)
+  - SDWebImage (5.15.5):
+    - SDWebImage/Core (= 5.15.5)
+  - SDWebImage/Core (5.15.5)
+
+DEPENDENCIES:
+  - Rudder-Braze
+  - RudderOneTrustConsentFilter
+
+SPEC REPOS:
+  trunk:
+    - Appboy-iOS-SDK
+    - OneTrust-CMP-XCFramework
+    - Rudder
+    - Rudder-Braze
+    - RudderOneTrustConsentFilter
+    - SDWebImage
+
+SPEC CHECKSUMS:
+  Appboy-iOS-SDK: 4a7dfe908639da81e5e85849355f6066b58b4cc6
+  OneTrust-CMP-XCFramework: 70bb8e5b1f721f37b247d1d0d395937b13f89343
+  Rudder: 91e5ac5c13f2094da5440ff13cce4a7337a73c3b
+  Rudder-Braze: e8b8c76b7e7f0348c79f8cc359e43f4c6cd7ac9b
+  RudderOneTrustConsentFilter: 09e8db48bc9f452a1112592fcc7de0953c4e6cdc
+  SDWebImage: fd7e1a22f00303e058058278639bf6196ee431fe
+
+PODFILE CHECKSUM: 9ad574c17bf4dc184bf9b1361249a09e6b73bde9
+
+COCOAPODS: 1.11.3

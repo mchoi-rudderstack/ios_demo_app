@@ -1,0 +1,7 @@
+${PODS_ROOT}/Target Support Files/Pods-ios/Pods-ios-frameworks.sh
+${BUILT_PRODUCTS_DIR}/Appboy-iOS-SDK/Appboy_iOS_SDK.framework
+${BUILT_PRODUCTS_DIR}/Rudder/Rudder.framework
+${BUILT_PRODUCTS_DIR}/Rudder-Braze/Rudder_Braze.framework
+${BUILT_PRODUCTS_DIR}/RudderOneTrustConsentFilter/RudderOneTrustConsentFilter.framework
+${BUILT_PRODUCTS_DIR}/SDWebImage/SDWebImage.framework
+${PODS_XCFRAMEWORKS_BUILD_DIR}/OneTrust-CMP-XCFramework/OTPublishersHeadlessSDK.framework/OTPublishersHeadlessSDK

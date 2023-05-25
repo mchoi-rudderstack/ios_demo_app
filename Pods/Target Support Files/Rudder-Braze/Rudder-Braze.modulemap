@@ -1,0 +1,6 @@
+framework module Rudder_Braze {
+  umbrella header "Rudder-Braze-umbrella.h"
+
+  export *
+  module * { export * }
+}
